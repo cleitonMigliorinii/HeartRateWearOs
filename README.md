@@ -39,3 +39,21 @@ O app apresenta as leituras de forma simples e rápida, com foco em dispositivos
 1. Clone o repositório:
    ```bash
    git clone https://github.com/cleitonMigliorinii/HeartRateWearOs.git
+
+   Abra o projeto no Android Studio.
+
+Conecte um dispositivo físico ou configure um emulador Wear OS com suporte a sensores.
+
+Compile e execute o app!
+
+⚡ Importante: O dispositivo precisa ter sensor de batimentos cardíacos (Heart Rate Sensor).
+
+✨ Melhorias Futuras
+Gravação do histórico de batimentos.
+
+Alertas de frequência cardíaca anormal.
+
+Integração com apps de saúde.
+
+🧑‍💻 Autor
+Desenvolvido com ❤️ por Cleiton Migliorini.
